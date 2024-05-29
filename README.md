@@ -7,6 +7,7 @@
 -  Express
 -  Vm
 -  Vm2
+-  eta@2.0.0
 
 ## payload
 
